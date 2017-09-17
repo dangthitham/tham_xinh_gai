@@ -1,0 +1,74 @@
+*{
+	padding:0;/*căn lề trong cái thẻ của mk*/
+	margin:0;/*căn lề bên ngoài các thẻ*/
+
+
+
+
+
+}
+body{
+	width:1000px;
+	margin:auto;
+	border:1px solid #ff3333;/*tạo khung*/
+	padding:1em;
+	/*border:1px solid #ff3333;*/
+}
+h2{
+	background:red;/*mầu nền h1*/
+	width:600px;/*độ rộng*/
+	margin-top:30px;/*right,left,bottom*/
+	height:100px;/*chiều cao*/
+	line-height:100px;/*căn lề đối xứng trên dưới chữ*/
+	font-size:50px;/*kích thước chữ*/
+	font-weight:bold/*độ đậm của chữ*/
+}
+#vung1{
+   width:100%;
+height:100px;
+margin-top:10px;
+color:green;
+background:lightgray;   
+	
+	
+}
+#vung2{
+	width:100%;
+	height:100px;
+	margin-top:10px;
+	color:green;
+	background:yellow;
+	
+	
+	
+	
+}
+.class1{
+	
+	width:32%;
+	height:100px;
+	margin-top:10px;
+	margin-left:10px;
+	color:green;
+	background:blue;
+	float:left;
+	
+	
+}
+/***************************/
+#header{  
+   width:100%;
+   height:150px;
+   border:1px solid black;
+
+}
+#menu{
+	margin-top:10px;
+	width:100%;
+	height:40px;
+	border:1px solid black;
+	
+	
+	
+	
+}
